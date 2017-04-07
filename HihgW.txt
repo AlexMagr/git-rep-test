@@ -1,4 +1,4 @@
-Print('High-Way');
-Print('Hello-World');
-Print('High everybody');
-Print('Hello')
+Print('High-Way;');
+Print('Hello-World;');
+Print('High everybody;');
+Print('Hello;');
