@@ -1,4 +1,5 @@
 Print('High-Way');
 Print('Hello-World');
 Print('High everybody');
-Print('Hello')
+Print('Hello');
+Print('Hello my dear friend');
