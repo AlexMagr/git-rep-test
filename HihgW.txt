@@ -1,6 +1,6 @@
-Print('High-Way');
-Print('Hello-World');
-Print('High everybody');
-Print('Hello');
-Print('Hello my dear friend');
-Print('Glad to see you');
+Print('High-Way;');
+Print('Hello-World;');
+Print('High everybody;');
+Print('Hello;');
+Print('Hello my dear friend;');
+Print('Glad to see you;');
